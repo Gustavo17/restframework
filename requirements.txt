@@ -1,0 +1,11 @@
+Django==1.9
+Pygments==2.0.2
+amqp==1.4.8
+anyjson==0.3.3
+appnope==0.1.0
+billiard==3.3.0.22
+celery==3.1.19
+decorator==4.0.6
+django-filter==0.11.0
+djangorestframework==3.3.2
+psycopg2==2.6.1
